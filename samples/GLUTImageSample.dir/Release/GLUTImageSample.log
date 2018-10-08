@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/user/gitFolder/LeapMotion/samples/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/user/gitFolder/LeapMotion/samples/CMakeFiles/generate.stamp is up-to-date.
+  GLUTImageSample.c
+C:\Users\user\gitFolder\LeapMotion\samples\GLUTImageSample.c(46): warning C4244: 'function': conversion from 'uint64_t' to 'std::size_t', possible loss of data
+C:\Users\user\gitFolder\LeapMotion\samples\GLUTImageSample.c(52): warning C4244: 'function': conversion from 'uint64_t' to 'std::size_t', possible loss of data
+C:\Users\user\gitFolder\LeapMotion\samples\GLUTImageSample.c(53): warning C4244: 'function': conversion from 'uint64_t' to 'std::size_t', possible loss of data
+  ExampleConnection.c
+  GLutils.c
+  Generating Code...
+  GLUTImageSample.vcxproj -> C:\Users\user\gitFolder\LeapMotion\samples\Release\GLUTImageSample.exe
