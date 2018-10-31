@@ -1,6 +1,2 @@
-﻿  Building Custom Rule C:/Users/user/gitFolder/LeapMotion/samples/CMakeLists.txt
-  CMake does not need to re-run because C:/Users/user/gitFolder/LeapMotion/samples/CMakeFiles/generate.stamp is up-to-date.
-  ImageSample.c
-  ExampleConnection.c
-  Generating Code...
+﻿  ExampleConnection.c
   ImageSample.vcxproj -> C:\Users\user\gitFolder\LeapMotion\samples\Release\ImageSample.exe

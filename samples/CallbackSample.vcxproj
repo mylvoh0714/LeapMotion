@@ -110,7 +110,8 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/user/gitFolder/LeapMotion/lib/x86/LeapC.dll C:/Users/user/gitFolder/LeapMotion/samples/Debug
 if %errorlevel% neq 0 goto :cmEnd
@@ -165,7 +166,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/user/gitFolder/LeapMotion/lib/x86/LeapC.dll C:/Users/user/gitFolder/LeapMotion/samples/Release
 if %errorlevel% neq 0 goto :cmEnd
@@ -220,7 +222,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/user/gitFolder/LeapMotion/lib/x86/LeapC.dll C:/Users/user/gitFolder/LeapMotion/samples/MinSizeRel
 if %errorlevel% neq 0 goto :cmEnd
@@ -274,7 +277,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message></Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/user/gitFolder/LeapMotion/lib/x86/LeapC.dll C:/Users/user/gitFolder/LeapMotion/samples/RelWithDebInfo
 if %errorlevel% neq 0 goto :cmEnd

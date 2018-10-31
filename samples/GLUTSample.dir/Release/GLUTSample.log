@@ -1,7 +1,5 @@
-﻿  Building Custom Rule C:/Users/user/gitFolder/LeapMotion/samples/CMakeLists.txt
-  CMake does not need to re-run because C:/Users/user/gitFolder/LeapMotion/samples/CMakeFiles/generate.stamp is up-to-date.
+﻿  ExampleConnection.c
   GLUTSample.c
-  ExampleConnection.c
   GLutils.c
   Generating Code...
   GLUTSample.vcxproj -> C:\Users\user\gitFolder\LeapMotion\samples\Release\GLUTSample.exe

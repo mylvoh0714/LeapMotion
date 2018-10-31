@@ -1,19 +1,2 @@
-﻿  Building Custom Rule C:/Users/user/gitFolder/LeapMotion/samples/CMakeLists.txt
-  CMake does not need to re-run because C:/Users/user/gitFolder/LeapMotion/samples/CMakeFiles/generate.stamp is up-to-date.
-  GLUTRectifiedImageSample.c
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(55): warning C4244: '=': conversion from 'const uint32_t' to 'float', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(56): warning C4244: '=': conversion from 'const uint32_t' to 'float', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(57): warning C4244: '=': conversion from 'float' to 'uint64_t', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(58): warning C4244: 'function': conversion from 'uint64_t' to 'std::size_t', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(64): warning C4244: 'function': conversion from 'uint64_t' to 'std::size_t', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(65): warning C4244: 'function': conversion from 'uint64_t' to 'std::size_t', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(122): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\user\gitFolder\LeapMotion\samples\GLUTRectifiedImageSample.c(147): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  ExampleConnection.c
-  GLutils.c
-  Generating Code...
+﻿  ExampleConnection.c
   GLUTRectifiedImageSample.vcxproj -> C:\Users\user\gitFolder\LeapMotion\samples\Release\GLUTRectifiedImageSample.exe

@@ -28,7 +28,6 @@ static void OnDevice(const LEAP_DEVICE_INFO *props){
 /** Callback for when a frame of tracking data is available. */
 static void OnFrame(const LEAP_TRACKING_EVENT *frame){
   printf("Frame %lli with %i hands.\n", (long long int)frame->info.frame_id, frame->nHands);
-
   for(uint32_t h = 0; h < frame->nHands; h++){
     LEAP_HAND* hand = &frame->pHands[h];
     printf("    Hand id %i is a %s hand with position (%f, %f, %f).\n",
